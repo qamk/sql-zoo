@@ -4,7 +4,7 @@ movie table:               |  casting table:                    |  actor table: 
       title                |    PK, FK  actorid                 |        name     |
       yr (release year)    |            ord                     |                 |  
       budget               |-------------------------------------------------------                    
-      director             |  
+   FK director             |  
       gross                |      
 ----------------------------
 */
